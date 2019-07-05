@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-export path = 
+export path =
+pian
