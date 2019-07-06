@@ -2,10 +2,8 @@
 export path =
 pian
 c
-
 diff 123456
 apple
-<<<<<<< HEAD
 apple2
 apple3
 apple4
