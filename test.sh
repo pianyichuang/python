@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 export path =
 pian
-yi
-chuang
+c
 
-diff 123
+diff 123456
+apple
